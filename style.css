@@ -1,0 +1,45 @@
+body {
+	background-color: grey;
+}
+
+article {
+	position: relative;
+	margin: auto;
+	max-width: 700px;
+	background-color: white;
+}
+
+header {
+	margin: auto;
+	background-color: red;
+	max-width: 700px;
+	max-height: 40px;
+}
+
+p.header {
+	margin: 0;
+	color: white;
+	position: relative;
+	top: 7px;
+	left: 10px;
+	font-size: 17px;
+}
+
+p.header1 {
+	margin: 0;
+	color: white;
+	position: relative;
+	top: 0px;
+	left: 10px;
+	font-size: 17px;
+}
+
+h1 {
+	position: relative;
+	left: 380px;
+	margin: auto;
+}
+
+h2 {
+	margin: 0;
+}
